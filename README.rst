@@ -2,7 +2,7 @@
 
 已上传到PyPI，执行此命令即可安装：``pip install qqwry-py3``
 
-﻿﻿特点
+﻿﻿特点 Break
 ======
 
 1. for Python 3.0+。
